@@ -1,0 +1,13 @@
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\ApiLocal.exe
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\Data\entreprise.json
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\Data\laposte.json
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\ApiLocal.dll
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\ApiLocal.deps.json
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\ApiLocal.runtimeconfig.json
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\ApiLocal.pdb
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\D\Projects\Antoine\ApiLocal\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

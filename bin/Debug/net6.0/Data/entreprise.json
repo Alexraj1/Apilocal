@@ -1,0 +1,35 @@
+{
+  "entreprise": [
+
+    {
+      "Name": "Pizza Marolles",
+      "address": {
+        "no": "45",
+        "streetAddress": "Rue de grande",
+        "city": "Marolles Sur Seine",
+        "state": "Ile de France",
+        "postalCode": "77130",
+        "coordonnees_gps": [
+          48.364775484,
+          2.990559168
+        ]
+      },
+      "disponibilities_insee": [ "77279", "77482", "77061" ]
+    },
+    {
+      "Name": "Kebab Varennes",
+      "address": {
+        "no": "309",
+        "streetAddress": "Rue de varennes",
+        "city": "Varennes Sur Seine",
+        "state": "Ile de France",
+        "postalCode": "77130",
+        "coordonnees_gps": [
+          48.364775484,
+          2.990559168
+        ]
+      },
+      "disponibilities_insee": [  "77482", "77061" ]
+    }
+  ]
+}
