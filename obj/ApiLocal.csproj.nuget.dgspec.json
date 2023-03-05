@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D\\Projects\\Antoine\\ApiLocal\\ApiLocal.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Apilocal\\ApiLocal.csproj": {}
   },
   "projects": {
-    "C:\\D\\Projects\\Antoine\\ApiLocal\\ApiLocal.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Apilocal\\ApiLocal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D\\Projects\\Antoine\\ApiLocal\\ApiLocal.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Apilocal\\ApiLocal.csproj",
         "projectName": "ApiLocal",
-        "projectPath": "C:\\D\\Projects\\Antoine\\ApiLocal\\ApiLocal.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Apilocal\\ApiLocal.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\D\\Projects\\Antoine\\ApiLocal\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Apilocal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -54,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.114\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
